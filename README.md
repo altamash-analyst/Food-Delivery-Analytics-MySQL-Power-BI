@@ -377,15 +377,3 @@ The project is intended as a synthetic-data portfolio demonstration for Data Ana
 **Data Analytics Portfolio Project**
 
 MySQL | SQL | Microsoft Power BI | Business Intelligence
-
-## GitHub Repository Description
-
-End-to-end Food Delivery Analytics project using MySQL Shell, SQL, and Power BI to analyze customer behavior, restaurant performance, food categories, sales, discounts, delivery operations, and profitability.
-
-## GitHub Topics
-
-`food-delivery-analytics` `mysql` `mysql-shell` `sql` `power-bi` `data-analytics` `business-intelligence` `sales-analytics` `customer-analytics` `restaurant-analytics` `delivery-analytics` `profitability-analysis` `dashboard` `dax` `data-visualization`
-
-## SEO Keywords
-
-Food Delivery Analytics Project, MySQL Food Delivery Database, Power BI Food Delivery Dashboard, SQL Sales Analysis, Restaurant Performance Analysis, Customer Segmentation, Food Category Analytics, Delivery Performance Analysis, Profitability Analysis, Business Intelligence Portfolio, Data Analyst Portfolio Project.

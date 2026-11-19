@@ -130,6 +130,8 @@ The report contains five analytical pages.
 
 Provides a high-level view of business performance.
 
+![Food Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard1.PNG)
+
 Analysis includes:
 - Orders and revenue
 - Customer performance
@@ -144,6 +146,8 @@ Analysis includes:
 
 Evaluates restaurant performance and food category contribution.
 
+![Food Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard2.PNG)
+
 Analysis includes:
 - Net sales by cuisine
 - Food category profitability
@@ -156,6 +160,8 @@ Analysis includes:
 ### 3. Customer Analytics
 
 Explores customer demographics and purchasing behavior.
+
+![Food Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard3.PNG)
 
 Analysis includes:
 - Net sales by gender
@@ -171,6 +177,8 @@ Analysis includes:
 
 Focuses on delivery operations and order activity.
 
+![Food Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard4.PNG)
+
 Analysis includes:
 - Delivery time distribution
 - Cancelled and returned order trends
@@ -184,6 +192,8 @@ Analysis includes:
 ### 5. Profitability & Management
 
 Examines financial performance and profitability drivers.
+
+![Food Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard5.PNG)
 
 Analysis includes:
 - Monthly net sales and profit

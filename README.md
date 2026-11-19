@@ -374,6 +374,12 @@ The project is intended as a synthetic-data portfolio demonstration for Data Ana
 
 ## Author
 
-**Data Analytics Portfolio Project**
+**Altamash Nizamuddin**
 
-MySQL | SQL | Microsoft Power BI | Business Intelligence
+Data Analyst | Excel • Power BI • Python • MySQL
+
+- GitHub: [@altamash-analyst](https://github.com/altamash-analyst)
+  
+- Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
+  
+- **LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
